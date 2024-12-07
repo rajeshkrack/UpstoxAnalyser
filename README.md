@@ -54,5 +54,4 @@ Once the server is running, access the dashboard at `http://localhost:8501`.
 
 ## Preview
 
-![pp2](https://github.com/user-attachments/assets/463db84e-90a1-4117-95e4-2ef396e2f397)
 
